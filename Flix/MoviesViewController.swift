@@ -20,6 +20,7 @@ class MoviesViewController: UIViewController, UITableViewDataSource, UITableView
         tableView.dataSource = self
         tableView.delegate = self
 
+        //testing
         // Do any additional setup after loading the view.
         print("Hello")
         
