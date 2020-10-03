@@ -3,7 +3,7 @@
 //  Flix
 //
 //  Created by Angela Xie on 10/3/20.
-//
+// edited on 10/4
 
 import UIKit
 import AlamofireImage
